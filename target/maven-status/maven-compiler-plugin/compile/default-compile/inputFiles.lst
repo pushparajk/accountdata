@@ -1,0 +1,11 @@
+/workspaces/accountdata/src/main/java/com/cosmos/services/AccountService.java
+/workspaces/accountdata/src/main/java/com/cosmos/models/AccountList.java
+/workspaces/accountdata/src/main/java/com/cosmos/controllers/AccountController.java
+/workspaces/accountdata/src/main/java/com/cosmos/ResourceServerConfig.java
+/workspaces/accountdata/src/main/java/com/cosmos/AccountsApplication.java
+/workspaces/accountdata/src/main/java/com/cosmos/models/AccountDetail.java
+/workspaces/accountdata/src/main/java/com/cosmos/models/Account.java
+/workspaces/accountdata/src/main/java/com/cosmos/services/AccountServiceImpl.java
+/workspaces/accountdata/src/main/java/com/cosmos/integration/AccountHIFImpl.java
+/workspaces/accountdata/src/main/java/com/cosmos/models/AccountExtra.java
+/workspaces/accountdata/src/main/java/com/cosmos/integration/AccountHIF.java
